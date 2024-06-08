@@ -1,7 +1,23 @@
 # Data-Driven-Innovations-In-Supply-Chain-Management-With-Qlik-Insights
 
+
+
+# Social Impact Analysis: 
+
+Create visualizations to showcase the demographic distribution of Supply chain management 
+Analyze how Data-Driven Innovations in Supply Chain Management have impacted social welfare programs, financial inclusion, and other key areas. 
+Explore any correlations between usage and improvements.
+
+# Business Impact Analysis: 
+Analyze how Data-Driven Innovations in Supply Chain Management have affected businesses, especially in sectors like banking,  telecommunications, and e-commerce. 
+Evaluate the impact of Data-Driven Innovations in Supply Chain Management on sales, customer onboarding, and operational efficiency. 
+
+
+# Downloading The Dataset
+Please use the link to download the dataset: Link
+
+
 DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS | Kaggle..
-SUPPLY CHAIN FOR BIG DATA ANALYSIS..
 
 https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 
@@ -21,3 +37,8 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 ![Capture](https://github.com/sudipta351/Data-Driven-Innovations-In-Supply-Chain-Management-With-Qlik-Insights/assets/70332483/1d456e55-d1d0-4941-873b-6df73bc4ff66)
 
 ![Capture1](https://github.com/sudipta351/Data-Driven-Innovations-In-Supply-Chain-Management-With-Qlik-Insights/assets/70332483/1827549c-e054-4128-85f6-be4d9c03e44d)
+
+
+
+
+
