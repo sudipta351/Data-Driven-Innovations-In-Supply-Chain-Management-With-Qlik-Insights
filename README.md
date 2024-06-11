@@ -16,6 +16,10 @@ Evaluate the impact of Data-Driven Innovations in Supply Chain Management on sal
 # Downloading The Dataset
 Please use the link to download the dataset: Link
 
+https://fslz5a4jj7pm588.sg.qlikcloud.com/dataset/665ffa39e925e7456489cb92
+
+https://fslz5a4jj7pm588.sg.qlikcloud.com/dataset/665ff79cfadcab72693cfe42
+
 
 DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS | Kaggle..
 
